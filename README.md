@@ -1,5 +1,5 @@
 
-#Introduction
+# Introduction
 The English Premier League is among the world's most popular sporting leagues. I have followed it for almost a decade. The competition was officially founded in 1992 by the English Football Association and has blossomed into the most competitive soccer league in the world. With any sport, there is a large market for betting in the league. As an avid soccer fan who has played soccer his entire life, I want to know if I can beat the odds using Machine Learning.
 
 # What are we trying to do?
